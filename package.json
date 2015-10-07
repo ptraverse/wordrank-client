@@ -1,0 +1,28 @@
+{
+  "name": "wordrank-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wordrank-client.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/wordrank-clientTest.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "node-curl": "^0.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ptraverse/wordrank.git"
+  },
+  "keywords": [
+    "english"
+  ],
+  "author": "Philippe Traverse <philippe.traverse@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/ptraverse/wordrank/issues"
+  },
+  "homepage": "https://github.com/ptraverse/wordrank"
+}
